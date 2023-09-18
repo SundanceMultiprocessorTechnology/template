@@ -1,8 +1,15 @@
 # template
 ## directory structure
 		|── board_files
+		|   |── BOARD_NAME
+		|   |   |── 1.0
+		|   |   |   |── board.xml
+		|   |   |   |── board_name.png
+		|   |   |   |── part0_pins.xml
+		|   |   |   |── preset.xml
+		|   |   |   |── xitem.json
 		|── documents
-		|── testing / BSP
+		|── BSP
 		|   |── boot
 		|   |   |── BOOT.bin
 		|   |   |── output.bif  
