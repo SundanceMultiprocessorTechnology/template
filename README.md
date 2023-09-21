@@ -25,10 +25,13 @@
 		|   |── software
 		|   |   |── bin
 		|   |   |   |── *.elf
-		|   |   |── src
+		|   |   |── baremetal
 		|   |   |   |── fsbl
-		|   |   |   |   |── *.c
-		|   |   |   |   |── *.h
+		|   |   |   |   |── *.prj
+		|   |   |   |   |── src
+		|   |   |   |   |   |── *.c
+		|   |   |   |   |   |── *.h
+		|   |   |── linux
 		|   |── scripts
 		|   |── petalinux
 		|   |   |── *.bsp
