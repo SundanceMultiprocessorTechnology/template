@@ -1,11 +1,13 @@
 <img align="right" src=https://www.sundance.com/wp-content/uploads/docs/sundance_logo_105.png>
+
+# BOARD NAME
 Welcome to the BOARD_NAME repository.
 
 This repository stores the BOARD_NAME source code and documentation.
 
 Go to the [wiki](https://github.com/SundanceMultiprocessorTechnology/template/wiki) for more information.
 
-# directory structure
+# Directory Structure
 		|── board_files
 		|   |── BOARD_NAME
 		|   |   |── 1.0
