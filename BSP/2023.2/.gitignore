@@ -14,6 +14,11 @@ software/baremetal/.analytics
 software/baremetal/.metadata/
 software/baremetal/IDE.log
 software/baremetal/RemoteSystemsTempFiles/
+software/baremetal_classic/EMC2_BSP_platform/.log
+software/baremetal_classic/.analytics
+software/baremetal_classic/.metadata/
+software/baremetal_classic/IDE.log
+software/baremetal_classic/RemoteSystemsTempFiles/
 software/Packages/
 	
 
